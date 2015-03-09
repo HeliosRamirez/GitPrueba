@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 El texto cambia
+=======
+Actualizar desde el repositorio
+o recuperar archivo.
+
+iohe
+>>>>>>> 93596e83a055f83817273d082c9001ae15b4ec6c
