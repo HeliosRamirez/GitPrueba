@@ -1,2 +1,1 @@
-Actualizar desde el repositorio
-o recuperar archivo.
+El texto cambia
